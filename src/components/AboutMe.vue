@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="about">
         <h1 class="text-center text-3xl mb-10">About Me</h1>
         <div class="leading-7 md:text-lg md:leading-10">
             <p class="my-5">I'm an enthusiastic Full-Stack Developer with an expanding interest in solving problems using efficient solutions. I learned HTML and CSS in middle school and over the years I have been building my development skills alongside my communication skills and professionalism.</p>

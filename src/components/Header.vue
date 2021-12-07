@@ -1,11 +1,11 @@
 <template>
   <header class="w-full flex justify-between items-center mb-10">
     <span class="font-extrabold sm:text-2xl text-sky-600">DS</span>
-    <ul class="flex space-x-3 sm:space-x-10 text-sm sm:text-base">
-      <li>About</li>
-      <li>Projects</li>
-      <li>Resume</li>
-    </ul>
+    <nav class="flex space-x-3 sm:space-x-10 text-sm sm:text-base">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#resume">Resume</a>
+    </nav>
     <div class="flex space-x-3">
       <a class="text-blue-600" href="https://www.linkedin.com/in/mistershack/">
         <svg

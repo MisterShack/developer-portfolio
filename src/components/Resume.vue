@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section id="resume">
     <h1 class="text-center text-3xl mb-20">Resume</h1>
 
     <div class="my-10">

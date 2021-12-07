@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section id="projects">
     <h1 class="text-center text-3xl mb-10">Projects</h1>
     <div class="flex space-x-3 justify-center">
       <div class="p-5 rounded-lg w-full md:w-1/2 lg:w-1/3 bg-sky-100 shadow-md">
