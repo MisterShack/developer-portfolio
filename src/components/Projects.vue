@@ -4,7 +4,9 @@
     <div class="flex space-x-3 justify-center">
       <div class="p-5 rounded-lg w-full md:w-1/2 lg:w-1/3 bg-sky-100 shadow-md">
         <div class="flex justify-between">
-          <h2 class="text-xl mb-3 text-sky-900 font-medium">Myze</h2>
+          <h2 class="text-xl mb-3 text-sky-900 font-medium">
+            Myze <span class="text-sm">(wip)</span>
+          </h2>
           <div class="flex space-x-5">
             <a class="text-indigo-600" href="https://myze.ca">
               <svg
