@@ -4,20 +4,7 @@
 
     <div class="my-10">
       <h2 class="flex items-center text-2xl space-x-5 font-thin">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-10"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"
-          />
-        </svg>
+        <CodeIcon class="h-10" />
         <span>Skills</span>
       </h2>
       <ul class="pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
@@ -37,20 +24,7 @@
 
     <div class="my-10">
       <h2 class="flex items-center text-2xl space-x-5 font-thin">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-10"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
-          />
-        </svg>
+        <BriefcaseIcon class="h-10" />
         <span>Professional Employment</span>
       </h2>
       <div class="pl-16">
@@ -137,24 +111,7 @@
 
     <div class="my-10">
       <h2 class="flex items-center text-2xl space-x-5 font-thin">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-10"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path d="M12 14l9-5-9-5-9 5 9 5z" />
-          <path
-            d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"
-          />
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
-          />
-        </svg>
+        <EducationIcon class="h-10" />
         <span>Education</span>
       </h2>
       <div class="pl-16">
@@ -170,20 +127,7 @@
 
     <div class="my-10">
       <h2 class="flex items-center text-2xl space-x-5 font-thin">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-10"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
-          />
-        </svg>
+        <LightBulbIcon class="h-10" />
         <span>Actively Learning</span>
       </h2>
       <div class="pl-16 flex items-center mt-5">
@@ -196,20 +140,7 @@
 
     <div class="my-10">
       <h2 class="flex items-center text-2xl space-x-5 font-thin">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="h-10"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"
-          />
-        </svg>
+        <PuzzlePieceIcon class="h-10" />
         <span>Activities & Interests</span>
       </h2>
       <ul class="pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
@@ -231,4 +162,9 @@
   import ReactLogo from "./icons/ReactLogo.vue";
   import VueLogo from "./icons/VueLogo.vue";
   import TypeScriptLogo from "./icons/TypeScriptLogo.vue";
+  import CodeIcon from "./icons/CodeIcon.vue";
+  import BriefcaseIcon from "./icons/BriefcaseIcon.vue";
+  import EducationIcon from "./icons/EducationIcon.vue";
+  import LightBulbIcon from "./icons/LightBulbIcon.vue";
+  import PuzzlePieceIcon from "./icons/PuzzlePieceIcon.vue";
 </script>
