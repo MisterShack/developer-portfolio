@@ -7,7 +7,7 @@
         <CodeIcon class="h-10" />
         <span>Skills</span>
       </h2>
-      <ul class="pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
+      <ul class="pl-4 md:pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
         <li>
           Professional experience with PHP, JavaScript / jQuery, MySQL and CSS
         </li>
@@ -27,14 +27,14 @@
         <BriefcaseIcon class="h-10" />
         <span>Professional Employment</span>
       </h2>
-      <div class="pl-16">
-        <div class="flex space-x-10 my-5 py-2 px-4">
-          <div class="w-44">
+      <div class="pl-2 md:pl-16">
+        <div class="flex flex-col md:flex-row md:space-x-10 my-5 py-2 px-4">
+          <div class="w-44 mb-2 md:mb-0">
             <div class="text-lg font-semibold">Software Developer</div>
             <a href="https://www.scootaround.com">Scootaround Inc.</a>
             <div class="text-gray-600">Jan. 2021 - Present</div>
           </div>
-          <ul class="list-disc text-sm">
+          <ul class="pl-4 md:pl-0 list-disc text-sm">
             <li class="my-2">
               Collaborate with internal and external teams to develop new
               features for clients and staff
@@ -49,15 +49,16 @@
             </li>
           </ul>
         </div>
+
         <hr />
 
-        <div class="flex space-x-10 my-5 py-2 px-4">
-          <div class="w-44">
+        <div class="flex flex-col md:flex-row md:space-x-10 my-5 py-2 px-4">
+          <div class="w-44 mb-2 md:mb-0">
             <div class="text-lg font-semibold">Lead Developer</div>
             <a href="https://www.fastoche.ca">Fastoche Canada</a>
             <div class="text-gray-600">Aug. 2016 - Dec. 2020</div>
           </div>
-          <ul class="list-disc text-sm">
+          <ul class="pl-4 md:pl-0 list-disc text-sm">
             <li class="my-2">
               Develop, design, test and maintain web applications for nearly 200
               daycare centres across Canada with more than half in Manitoba
@@ -88,13 +89,14 @@
         </div>
 
         <hr />
-        <div class="flex space-x-10 my-5 py-2 px-4">
-          <div class="w-44">
+
+        <div class="flex flex-col md:flex-row md:space-x-10 my-5 py-2 px-4">
+          <div class="w-44 mb-2 md:mb-0">
             <div class="text-lg font-semibold">Freelance Developer</div>
             <a href="https://www.fastoche.ca">Self-employed</a>
             <div class="text-gray-600">Feb. 2016 - Aug. 2016</div>
           </div>
-          <ul class="list-disc text-sm">
+          <ul class="pl-4 md:pl-0 list-disc text-sm">
             <li class="my-2">
               Design, develop and deploy website to DigitalOcean
             </li>
@@ -114,7 +116,7 @@
         <EducationIcon class="h-10" />
         <span>Education</span>
       </h2>
-      <div class="pl-16">
+      <div class="pl-2 md:pl-16">
         <div class="my-5 py-2 px-4">
           <div class="text-lg font-semibold">
             Business of Information Technology
@@ -130,7 +132,7 @@
         <LightBulbIcon class="h-10" />
         <span>Actively Learning</span>
       </h2>
-      <div class="pl-16 flex items-center mt-5">
+      <div class="pl-2 md:pl-16 flex items-center mt-5">
         <VueLogo title="Vue.js"/>
         <ElixirLogo class="ml-2 h-12" title="Elixir"/>
         <ReactLogo title="React.js"/>
@@ -143,7 +145,7 @@
         <PuzzlePieceIcon class="h-10" />
         <span>Activities & Interests</span>
       </h2>
-      <ul class="pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
+      <ul class="pl-4 md:pl-20 flex flex-col space-y-2 mt-5 list-disc list-inside">
         <li>
           Volunteer A/V technician for A11yTO - Web Accessibility Conference
         </li>
