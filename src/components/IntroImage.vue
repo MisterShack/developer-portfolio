@@ -6,7 +6,7 @@
         items-center
         justify-center
         item
-        sm:space-x-10
+        space-x-10
         relative
       "
     >
@@ -37,6 +37,7 @@
       <div class="w-44 lg:w-56">
         <img
           src="/images/david-shack-profile.jpg"
+          alt="Headshot of David Shack"
         />
       </div>
       <div class="text-4xl md:text-6xl lg:text-8xl font-light mt-10 sm:mt-0">
