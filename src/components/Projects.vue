@@ -1,7 +1,7 @@
 <template>
   <section id="projects">
     <h1 class="text-center text-3xl mb-10">Projects</h1>
-    <div class="flex space-x-3 justify-center">
+    <div class="flex flex-col justify-center space-y-3 md:flex-row md:space-y-0 md:space-x-3">
       <div class="p-5 rounded-lg w-full md:w-1/2 lg:w-1/3 bg-sky-100 shadow-md">
         <div class="flex justify-between">
           <h2 class="text-xl mb-3 text-sky-900 font-medium">
@@ -42,7 +42,6 @@
           Created using PHP and the Laravel Framework
         </p>
       </div>
-
     </div>
   </section>
 </template>
