@@ -36,7 +36,7 @@
       ></div>
       <div class="w-44 lg:w-56">
         <img
-          src="https://media-exp1.licdn.com/dms/image/C4D03AQHDSvdWMdqkPA/profile-displayphoto-shrink_800_800/0/1607009628181?e=1644451200&v=beta&t=wEbQhp2rKCFbfvDR18yrAkVjbwFG9rvXRvMvgcgWMGQ"
+          src="/images/david-shack-profile.jpg"
         />
       </div>
       <div class="text-4xl md:text-6xl lg:text-8xl font-light mt-10 sm:mt-0">
